@@ -27,7 +27,7 @@
   "homepage": "https://github.com/LLSJinw/Choco-bot#readme",
   "dependencies": {
     "discord.js": "^11.1.0",
-    "ejs": "^2.5.6",
+    "ejs": "3.1.10"
     "express": "^4.15.3"
   }
 }
